@@ -47,9 +47,9 @@ Essa aplicação foi construída na <strong>Omnistack 11.0</strong> distribuída
 ### Resultado MOBILE:
 
 <h1 align="center">
-    <img alt="Mobile" src=".github/BeTheHeroSplash.png" width="300px">
-    <img alt="Mobile" src=".github/BeTheHeroLista.png" width="300px">
-    <img alt="Mobile" src=".github/BeTheHeroDetalhes.png" width="300px">
+    <img alt="Mobile" src=".github/BeTheHeroSplash.png" width="280px">
+    <img alt="Mobile" src=".github/BeTheHeroLista.png" width="280px">
+    <img alt="Mobile" src=".github/BeTheHeroDetalhes.png" width="280px">
 </h1>
 
 ## Como usar
@@ -97,7 +97,6 @@ Essa aplicação foi construída na <strong>Omnistack 11.0</strong> distribuída
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-</br>
 </br>
 
 <h3 align="center">
