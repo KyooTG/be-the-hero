@@ -47,9 +47,9 @@ Essa aplicação foi construída na <strong>Omnistack 11.0</strong> distribuída
 ### Resultado MOBILE:
 
 <h1 align="center">
-    <img alt="Mobile" src=".github/BeTheHeroSplash.png" width="280px">
-    <img alt="Mobile" src=".github/BeTheHeroLista.png" width="280px">
-    <img alt="Mobile" src=".github/BeTheHeroDetalhes.png" width="280px">
+    <img alt="Mobile" src=".github/BeTheHeroSplash.png" width="250px">
+    <img alt="Mobile" src=".github/BeTheHeroLista.png" width="250px">
+    <img alt="Mobile" src=".github/BeTheHeroDetalhes.png" width="250px">
 </h1>
 
 ## Como usar
