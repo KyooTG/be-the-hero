@@ -31,7 +31,7 @@ Essa aplicação foi construída na <strong>Omnistack 11.0</strong> distribuída
 ## Resultados
 
 <h1 align="center">
-    <img alt="Web" src=".github/BeTheHeroResume.png.png" width="900px">
+    <img alt="Web" src=".github/BeTheHeroResume.png" width="900px">
 </h1>
 
 - O layout utilizado como base para o desenvolvimento da Aplicação está disponível no **[Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11)**;
@@ -49,7 +49,7 @@ Essa aplicação foi construída na <strong>Omnistack 11.0</strong> distribuída
 <h1 align="center">
     <img alt="Mobile" src=".github/BeTheHeroSplash.png" width="300px">
     <img alt="Mobile" src=".github/BeTheHeroLista.png" width="300px">
-    <img alt="Mobile" src=".github/BeTheHeroDetalhs.png" width="300px">
+    <img alt="Mobile" src=".github/BeTheHeroDetalhes.png" width="300px">
 </h1>
 
 ## Como usar
